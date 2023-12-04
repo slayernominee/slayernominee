@@ -9,7 +9,7 @@ But I love the feeling by coding in rust ig xD
 Currently I discovered through Advent Of Code some coding puzzles and yeah here is my codewars stats lol. My the time I write this 
 I have a lot of fun doing them so maybe this will last a week lol 
 
-<img src="https://www.codewars.com/users/raphiell/badges/large">
+<a href="https://www.codewars.com/users/raphiell"><img src="https://www.codewars.com/users/raphiell/badges/large"></a>
 
 
 
