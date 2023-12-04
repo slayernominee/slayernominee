@@ -1,15 +1,18 @@
-### Hi there 👋
+### Hey 👋
 
-langeweile lol 
+I'm bored most of the time and just wasting my time with random stuff.
 
-Rust > alle anderen Sprachen
+My absolute favorite language is Rust although I use most of the time other languages because its just more time efficient.
+But I love the feeling by coding in rust ig xD
 
-Rust ist die beste Sprache die es gibt
-und nein Sprachen sind keine Tools sondern Religionen!
 
-> Ja ansonsten ist mir wirklich massiv langweilig
+Currently I discovered through Advent Of Code some coding puzzles and yeah here is my codewars stats lol. My the time I write this 
+I have a lot of fun doing them so maybe this will last a week lol 
 
-was schreibt man hier so? 
+[!https://www.codewars.com/users/raphiell/badges/large]
+
+
+
 
 <!--
 **slayernominee/slayernominee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
