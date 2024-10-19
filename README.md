@@ -1,13 +1,11 @@
 ### Hey 👋
 
-I'm bored most of the time and just wasting my time with random stuff.
-
-My absolute favorite language is Rust although I use most of the time other languages because its just more time efficient.
-But I love the feeling by coding in rust ig xD
+My absolute favorite language is Rust (not that proficient though xD) although I use most of the time other languages because its just more time efficient.
+But I love the feeling of coding in rust ig xD
 
 
-Currently I discovered through Advent Of Code some coding puzzles and yeah here is my codewars stats lol. My the time I write this 
-I have a lot of fun doing them so maybe this will last a week lol 
+Currently I discovered through Advent Of Code some coding puzzles and yeah here is my codewars stats lol. By the time I wrote this 
+I had a lot of fun doing them so maybe this will last a week lol (lasted 2 actually xD)
 
 <a href="https://www.codewars.com/users/raphiell"><img src="https://www.codewars.com/users/raphiell/badges/large"></a>
 
